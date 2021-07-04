@@ -7,7 +7,7 @@
     <a href="https://www.youtube.com/channel/UCpnEqmPTnNpFtTxxYoM-qlg"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
   </p>
   
-  <img src="https://twitter.com/mahmoud_r19/photo" align="right" width="25%"/>
+  <img src="https://drive.google.com/file/d/1QPBLLHFyb2ONO_EQ3GUiItvRXBrTNjA2/view?usp=sharing" align="right" width="25%"/>
 
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
 
