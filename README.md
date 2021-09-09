@@ -7,7 +7,7 @@
     <a href="https://www.youtube.com/channel/UCpnEqmPTnNpFtTxxYoM-qlg"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
   </p>
   
-  <img src="https://drive.google.com/file/d/1qugVr5OPCzYLWg2YCRDD9kGgSlEUjNJN/view" align="right" width="15%"/>
+  <img src="https://new.repodevsites.com/wp-content/uploads/2021/09/Untitled-1.png" align="right" width="15%"/>
 
 I have created WordPress and Big Commerce sites for clients all over the World. My main goal is to create a unique, eye-catching site that stands out from your competitors. With Learning and Searching I am able to understand your business objectives and translate those through your web design.
 
