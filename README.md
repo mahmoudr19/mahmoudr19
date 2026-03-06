@@ -26,7 +26,7 @@ name     : Mahmoud Reda
 location : Al Mansurah, Egypt 🇪🇬
 role     : WordPress & Shopify Developer
 focus    : Business-driven development — not just clean code
-company  : GreenSpread (https://green-spread.com)
+my portfolio  : https://mahmoudreda.me
 ```
 
 > Pharmacy graduate turned web developer. I build high-performance stores, custom plugins, and Liquid themes — bridging technical execution with strategic thinking across marketing, finance & ops.
