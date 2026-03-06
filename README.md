@@ -74,17 +74,6 @@ company  : GreenSpread (https://green-spread.com)
 
 ---
 
-## 🚀 What I'm Building
-
-| Project | Stack | Status |
-|---|---|---|
-| 🔌 WordPress Referral System | PHP · Pipedrive API · MySQL | 🔄 In Progress |
-| 🏢 TMT Elevators Website | WordPress · Elementor | 🔄 In Progress |
-| 📱 Mobile Accessories Brand | E-Commerce · Egypt | 🧠 Planning |
-| ⚡ Headless WordPress Research | REST API · Architecture | 📖 Researching |
-
----
-
 ## 💬 Ask Me About
 
 <div align="center">
