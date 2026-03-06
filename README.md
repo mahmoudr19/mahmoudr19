@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mahmoud Reda
 
-### WordPress & Shopify Developer · Frontend · CRM Integration
+### WordPress & Shopify Developer · Digital Marketing
 
 <br/>
 
